@@ -17,7 +17,7 @@
   --text-primary-color: #222222;
   --text-secondary-color: #ffffff;
 
-  --titles-weight: 700;
+  --title-weight: 700;
   --text-weight: 400;
   --menu-text-weight: 500;
 }
@@ -41,7 +41,7 @@ button {
 
 h1 {
   font-family: "Montserrat";
-  font-weight: var(--titles-weight);
+  font-weight: var(--title-weight);
   color: var(--primary-color);
 }
 
@@ -52,7 +52,7 @@ body {
 
 .section-title h2 {
   font-size: 25px;
-  font-weight: var(--titles-weight);
+  font-weight: var(--title-weight);
   margin: 0;
   text-align: center;
 }
