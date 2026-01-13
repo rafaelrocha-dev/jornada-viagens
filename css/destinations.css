@@ -1,0 +1,7 @@
+.destinations .card header {
+  display: block;
+  background-color: transparent;
+  position: static;
+  padding: 0;
+  margin-top: 24px;
+}
